@@ -1,0 +1,4 @@
+﻿  8.1.2.cpp
+C:\Users\marki\source\repos\8.1.2\8.1.2.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\marki\source\repos\8.1.2\8.1.2.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  8.1.2.vcxproj -> C:\Users\marki\source\repos\8.1.2\Debug\8.1.2.exe
